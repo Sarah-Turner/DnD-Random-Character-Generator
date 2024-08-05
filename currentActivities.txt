@@ -1,0 +1,100 @@
+Walking
+This person is walking around.
+They are 
+walking at a fast pace. They seem to be in a hurry.
+walking at a slow pace. They are enjoying the sights around them.
+walking at a normal pace. They are headed to a nearby building.
+walking at a normal pace. They are going to meet up with a friend.
+stumbling around. They are probably drunk.
+walking unnaturally, like they have been possessed.
+walking at a normal pace. They are trying to get somewhere.
+Working
+This person is doing their job.
+They 
+are working lazily, and not committed to their job.
+are working hard, and committed to their job.
+are falling asleep on the job.
+seem distracted.
+do not seem to know what they are doing.
+are taking a break.
+are taking a break.
+Waiting
+This person is waiting for something.
+They 
+are waiting for their friend to arrive.
+are just hanging around for no particular reason.
+are watching for someone specific.
+have arrived early and are waiting for others.
+are expecting someone.
+are just hanging around for no particular reason.
+are expecting someone.
+Passing Through
+This person is passing through the area, they will not stay here for long.
+They are heading on this journey because 
+they are in exile.
+they need to get to a war front.
+they need to meet a friend.
+they want to go home.
+they want to visit their family.
+they want to wander around in search of adventure.
+they are in search of their ancestral home.
+Relaxing
+After a long day of work, this person is just trying to relax, indulging in a simple pleasure.
+They are currently 
+daydreaming.
+reading a book.
+having a drink.
+eating.
+napping.
+lounging.
+making art.
+Loitering
+This person is just standing around.
+They are 
+following someone.
+casing the nearby building.
+trying to avoid the watch.
+doing nothing.
+looking for someone.
+waiting for a secret meeting.
+an elaborate illusion casted by a mage.
+Eating
+This person is eating a meal.
+They are 
+enjoying it.
+eating their favorite food.
+complaining about their food.
+eating slowly.
+eating quickly.
+seem distracted by something.
+scanning the area while they eat.
+Drinking
+This person is drinking.
+They are 
+intoxicated.
+on their first drink.
+taking small sips.
+gulping an alcoholic drink in some contest.
+alone.
+talking with other around them.
+seem to be thinking about something.
+Shouting
+This person is yelling loudly.
+They are 
+protesting something.
+giving a grand speech.
+argueing with someone.
+asking for a manager.
+in a heated debate with another.
+making a commotion.
+being a loudmouth.
+Riding
+This person is riding through the area.
+They are on a 
+horse walking slowly.
+horse trotting.
+mule.
+horse galloping somewhere.
+horse trying to find a stable.
+horse walking lazily.
+stubborn horse that refuses to obey.

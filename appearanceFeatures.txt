@@ -1,0 +1,42 @@
+Earrings
+Necklace
+Circlet
+Bracelets
+Piercings
+Flamboyant clothes
+Formal, clean clothes
+Ragged, dirty clothes
+Simple clothes
+Elaborate clothes
+Calloused hands
+Has pronounced scars
+Has burn scars
+Missing teeth
+Missing fingers
+Unusual eye color
+Two different eye colors
+Tattoos
+Birthmark
+Unusual skin color
+Bald
+Braided hair
+Unusual hair color
+Nervous eye twitch
+Distinctive nose
+Crooked posture
+Rigid posture
+Beautiful
+Ugly
+Tall
+Short
+Broad
+Thin
+Lanky
+Thick eyebrows
+Thin eyebrows
+Harsh face
+Delicate face
+Straight hair
+Curly hair
+Beady eyes
+Big eyes

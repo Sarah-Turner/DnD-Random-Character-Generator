@@ -1,0 +1,360 @@
+Longsword
+8
+1
+0
+1
+ swings a longsword... 
+ slashes perfectly at their opponent dealing a great blow! 
+'s longsword connects with their opponent. 
+'s longsword misses narrowly. 
+  overswings and misses completly! 
+Greatsword
+6
+2
+0
+0
+ slashes with a greatsword... 
+ puts all their weight into their attack and cuts a mighty gash into their opponent dealing severe damage! 
+ cuts into their opponent. 
+'s swing comes close to their foe and barely misses. 
+ whirls their greatsword and loses their balance missing completly! 
+Dagger
+4
+1
+1
+1
+ stabs with a dagger... 
+ expertly thrust their dagger into their opponents weakpoint dealing massive damage! 
+ pierces their foe. 
+'s dagger glances off their oppenent. 
+ stabs into the air making a fool of themself! 
+Mace
+6
+1
+0
+1
+ swings a mace... 
+ deals a devastating blow with their mace! 
+ lands a solid hit. 
+'s mace glances off thier opponent. 
+ stumbles and misses completely! 
+Club
+4
+1
+0
+1
+ swings a club... 
+ deals a devastating blow with their club! 
+ lands a solid hit. 
+'s club glances off thier opponent. 
+ stumbles and misses completely! 
+Greatclub
+8
+1
+0
+0
+ swings a greatclub... 
+ deals a devastating blow with their greatclub! 
+ lands a solid hit. 
+'s greatclub glances off thier opponent. 
+ stumbles and misses completely! 
+Handaxe
+6
+1
+0
+1
+ swings a handaxe... 
+ deals a devastating blow with their handaxe! 
+ lands a solid hit. 
+'s handaxe glances off thier opponent. 
+ stumbles and misses completely! 
+Javelin
+6
+1
+0
+1
+ throws a javelin... 
+ deals a devastating blow with their javelin! 
+ lands a solid hit. 
+'s javelin glances off thier opponent. 
+ stumbles and misses completely!
+Light Hammer
+4
+1
+0
+1
+ attacks with a light hammer... 
+ deals a devastating blow with their light hammer! 
+ lands a solid hit. 
+'s light hammer glances off thier opponent. 
+ stumbles and misses completely!
+Quarterstaff
+8
+1
+0
+0
+ swings a quarterstaff... 
+ deals a devastating blow with their quarterstaff! 
+ lands a solid hit. 
+'s quarterstaff glances off thier opponent. 
+ stumbles and misses completely! 
+Sickle
+4
+1
+0
+1
+ swings a sickle... 
+ deals a devastating blow with their sickle! 
+ lands a solid hit. 
+'s sickle glances off thier opponent. 
+ stumbles and misses completely! 
+Spear
+6
+1
+0
+1
+ uses a spear... 
+ deals a devastating blow with their spear! 
+ lands a solid hit. 
+'s spear glances off thier opponent. 
+ stumbles and misses completely! 
+Unarmed
+1
+1
+0
+0
+ punches... 
+ deals a devastating blow! 
+ lands a solid hit. 
+'s fists glances off thier opponent. 
+ stumbles and misses completely! 
+Crossbow
+8
+1
+1
+0
+ fires a crossbow... 
+ deals a devastating blow with their crossbow bolt! 
+ lands a solid hit. 
+'s bolt glances off thier opponent. 
+ crossbow jams! 
+Dart
+4
+1
+1
+1
+ throws a dart... 
+ deals a devastating blow with their dart! 
+ lands a solid hit. 
+'s dart glances off thier opponent. 
+ stumbles and misses completely! 
+Shortbow
+6
+1
+1
+1
+ fires a shortbow... 
+ hits a weakpoint dealing massive damage! 
+ lands a solid hit. 
+'s arrow glances off thier opponent. 
+ fumbles dropping their arrow! 
+Sling
+4
+1
+1
+1
+ uses a sling... 
+ deals a devastating blow with their sling! 
+ lands a solid hit. 
+'s hit glances off thier opponent. 
+ stumbles and misses completely! 
+Battleaxe
+10
+1
+0
+0
+ swings a battleaxe... 
+ deals a devastating blow with their battleaxe! 
+ lands a solid hit. 
+'s battleaxe glances off thier opponent. 
+ stumbles and misses completely! 
+Flail
+8
+1
+0
+1
+ swings a flail... 
+ deals a devastating blow with their flail! 
+ lands a solid hit. 
+'s flail glances off thier opponent. 
+ stumbles and misses completely! 
+Glaive
+10
+1
+0
+0
+ attacks with a glaive... 
+ deals a devastating blow with their glaive! 
+ lands a solid hit. 
+'s glaive glances off thier opponent. 
+ stumbles and misses completely! 
+Greataxe
+12
+1
+0
+0
+ swings a greataxe... 
+ deals a devastating blow with their greataxe! 
+ lands a solid hit. 
+'s greataxe glances off thier opponent. 
+ stumbles and misses completely! 
+Halberd
+10
+1
+0
+0
+ swings a halberd... 
+ deals a devastating blow with their halberd! 
+ lands a solid hit. 
+'s halberd glances off thier opponent. 
+ stumbles and misses completely! 
+Lance
+10
+1
+0
+0
+ attacks with a lance... 
+ deals a devastating blow with their lance! 
+ lands a solid hit. 
+'s lance glances off thier opponent. 
+ stumbles and misses completely! 
+Maul
+6
+2
+0
+0
+ swings a maul... 
+ deals a devastating blow with their maul! 
+ lands a solid hit. 
+'s maul glances off thier opponent. 
+ stumbles and misses completely! 
+Morningstar
+8
+1
+0
+1
+ swings a morningstar... 
+ deals a devastating blow with their morningstar! 
+ lands a solid hit. 
+'s morningstar glances off thier opponent. 
+ stumbles and misses completely! 
+Pike
+10
+1
+0
+0
+ attacks with a pike... 
+ deals a devastating blow with their pike! 
+ lands a solid hit. 
+'s pike glances off thier opponent. 
+ stumbles and misses completely!
+Rapier
+8
+1
+1
+1
+ thrust with a rapier... 
+ deals a devastating blow with their rapier! 
+ lands a solid hit. 
+'s rapier glances off thier opponent. 
+ stumbles and misses completely!
+Scimitar
+6
+1
+1
+1
+ swings a scimitar... 
+ deals a devastating blow with their scimitar! 
+ lands a solid hit. 
+'s scimitar glances off thier opponent. 
+ stumbles and misses completely!
+Shortsword
+6
+1
+1
+1
+ slashes with a shortsword... 
+ deals a devastating blow with their shortsword! 
+ lands a solid hit. 
+'s shortsword glances off thier opponent. 
+ stumbles and misses completely!
+Trident
+8
+1
+0
+0
+ thrust with a trident... 
+ deals a devastating blow with their trident! 
+ lands a solid hit. 
+'s trident glances off thier opponent. 
+ stumbles and misses completely!
+War pick
+8
+1
+0
+1
+ swings a war pick... 
+ deals a devastating blow with their war pick! 
+ lands a solid hit. 
+'s war pick glances off thier opponent. 
+ stumbles and misses completely! 
+Warhammer
+10
+1
+0
+0
+ swings a warhammer... 
+ deals a devastating blow with their warhammer! 
+ lands a solid hit. 
+'s warhammer glances off thier opponent. 
+ stumbles and misses completely! 
+Whip
+4
+1
+1
+1
+ swings a whip... 
+ deals a devastating blow with their whip! 
+ lands a solid hit. 
+'s whip glances off thier opponent. 
+ stumbles and misses completely! 
+Blowgun
+1
+1
+1
+0
+ uses a blowgun... 
+ deals a devastating blow with their blowgun! 
+ lands a solid hit. 
+'s attack glances off thier opponent. 
+ stumbles and misses completely! 
+Heavy Crossbow
+10
+1
+1
+0
+ attacks with a heavy crossbow... 
+ deals a devastating blow with their heavy bolt! 
+ lands a solid hit. 
+'s heavy bolt glances off thier opponent. 
+ stumbles and misses completely! 
+Longbow
+8
+1
+1
+0
+ attacks with a longbow... 
+ deals a piercing blow with their arrow! 
+ lands a solid hit. 
+'s arrow glances off thier opponent. 
+ stumbles and misses completely! 
